@@ -195,6 +195,7 @@ print(mydict)
 '''
 
 #lesson 4
+#sets are unordered, mutable, no duplicates
 
-mylist = ("banana", "cherry", "apple",)
-print(mylist)
+myset = {1, 2, 3, 1, 2}
+print(myset)
